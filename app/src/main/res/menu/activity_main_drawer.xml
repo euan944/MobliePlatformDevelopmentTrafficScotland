@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Euan Penman S1821916-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/homebutton"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_date_plannerFragment"
+            android:icon="@drawable/cal"
+            android:title="Date Planner" />
+        <item
+            android:id="@+id/nav_journey_plannerFragment"
+            android:icon="@drawable/journeyplanner"
+            android:title="Journey Planner" />
+        <item
+            android:id="@+id/nav_road_searchFragment"
+            android:src="@drawable/ic_menu_slideshow"
+            android:title="Road Search" />
+    </group>
+</menu>

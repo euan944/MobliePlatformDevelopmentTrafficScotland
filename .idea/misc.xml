@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Moblie Platform Development/CourseWork/CW HandIN/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1395" />
+        <entry key="..\:/Moblie Platform Development/CourseWork/CW HandIN/app/src/main/res/drawable-xxxhdpi/tsr.xml" value="0.1375" />
+        <entry key="..\:/Moblie Platform Development/CourseWork/CW HandIN/app/src/main/res/drawable/calicon_background.xml" value="0.186" />
+        <entry key="..\:/Moblie Platform Development/CourseWork/CW HandIN/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1395" />
+        <entry key="..\:/Moblie Platform Development/CourseWork/CW HandIN/app/src/main/res/drawable/ic_menu_camera.xml" value="0.1395" />
+        <entry key="..\:/Moblie Platform Development/CourseWork/CW HandIN/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.137" />
+        <entry key="..\:/Moblie Platform Development/CourseWork/CW HandIN/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.1395" />
+        <entry key="..\:/Moblie Platform Development/CourseWork/CW HandIN/app/src/main/res/drawable/ic_navigation_black_18dp.xml" value="0.1" />
+        <entry key="..\:/Moblie Platform Development/CourseWork/CW HandIN/app/src/main/res/drawable/search.xml" value="0.1205" />
+        <entry key="..\:/Moblie Platform Development/CourseWork/CW HandIN/app/src/main/res/drawable/side_nav_bar.xml" value="0.1395" />
+        <entry key="..\:/Moblie Platform Development/CourseWork/CW HandIN/app/src/main/res/layout-land/activity_results_date_and_road_picker.xml" value="0.2328042328042328" />
+        <entry key="..\:/Moblie Platform Development/CourseWork/CW HandIN/app/src/main/res/layout-land/fragment_date_planner.xml" value="0.1" />
+        <entry key="..\:/Moblie Platform Development/CourseWork/CW HandIN/app/src/main/res/layout-land/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Moblie Platform Development/CourseWork/CW HandIN/app/src/main/res/layout-land/fragment_journey_planner.xml" value="0.36" />
+        <entry key="..\:/Moblie Platform Development/CourseWork/CW HandIN/app/src/main/res/layout-land/fragment_road_search.xml" value="0.1" />
+        <entry key="..\:/Moblie Platform Development/CourseWork/CW HandIN/app/src/main/res/layout/activity_event_details.xml" value="0.1265625" />
+        <entry key="..\:/Moblie Platform Development/CourseWork/CW HandIN/app/src/main/res/layout/activity_listview.xml" value="0.2" />
+        <entry key="..\:/Moblie Platform Development/CourseWork/CW HandIN/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Moblie Platform Development/CourseWork/CW HandIN/app/src/main/res/layout/activity_maps.xml" value="0.1" />
+        <entry key="..\:/Moblie Platform Development/CourseWork/CW HandIN/app/src/main/res/layout/activity_results.xml" value="0.1" />
+        <entry key="..\:/Moblie Platform Development/CourseWork/CW HandIN/app/src/main/res/layout/activity_results_date_and_road_picker.xml" value="0.16666666666666666" />
+        <entry key="..\:/Moblie Platform Development/CourseWork/CW HandIN/app/src/main/res/layout/app_bar_main.xml" value="0.268" />
+        <entry key="..\:/Moblie Platform Development/CourseWork/CW HandIN/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Moblie Platform Development/CourseWork/CW HandIN/app/src/main/res/layout/event_for_traffic_information.xml" value="0.254981884057971" />
+        <entry key="..\:/Moblie Platform Development/CourseWork/CW HandIN/app/src/main/res/layout/fragment_date_planner.xml" value="0.132" />
+        <entry key="..\:/Moblie Platform Development/CourseWork/CW HandIN/app/src/main/res/layout/fragment_gallery.xml" value="0.275" />
+        <entry key="..\:/Moblie Platform Development/CourseWork/CW HandIN/app/src/main/res/layout/fragment_home.xml" value="0.275" />
+        <entry key="..\:/Moblie Platform Development/CourseWork/CW HandIN/app/src/main/res/layout/fragment_journey_planner.xml" value="0.3" />
+        <entry key="..\:/Moblie Platform Development/CourseWork/CW HandIN/app/src/main/res/layout/fragment_results.xml" value="0.12708333333333333" />
+        <entry key="..\:/Moblie Platform Development/CourseWork/CW HandIN/app/src/main/res/layout/fragment_road_search.xml" value="0.1" />
+        <entry key="..\:/Moblie Platform Development/CourseWork/CW HandIN/app/src/main/res/layout/fragment_slideshow.xml" value="0.1068840579710145" />
+        <entry key="..\:/Moblie Platform Development/CourseWork/CW HandIN/app/src/main/res/layout/nav_header_main.xml" value="0.1" />
+        <entry key="..\:/Moblie Platform Development/CourseWork/CW HandIN/app/src/main/res/layout/traffic_event.xml" value="0.1" />
+        <entry key="..\:/Moblie Platform Development/CourseWork/CW HandIN/app/src/main/res/menu/activity_main_drawer.xml" value="0.1265625" />
+        <entry key="..\:/Moblie Platform Development/CourseWork/CW HandIN/app/src/main/res/menu/main.xml" value="0.2" />
+        <entry key="..\:/Moblie Platform Development/CourseWork/CW HandIN/app/src/main/res/mipmap-anydpi-v26/calicon.xml" value="0.1" />
+        <entry key="..\:/Moblie Platform Development/CourseWork/CW HandIN/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1615" />
+        <entry key="..\:/Moblie Platform Development/CourseWork/CW HandIN/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1615" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
