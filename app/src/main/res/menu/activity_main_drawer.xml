@@ -11,7 +11,7 @@
             android:title="Home" />
         <item
             android:id="@+id/nav_date_plannerFragment"
-            android:icon="@drawable/cal"
+            android:icon="@drawable/journeyplanner"
             android:title="Date Planner" />
         <item
             android:id="@+id/nav_journey_plannerFragment"
