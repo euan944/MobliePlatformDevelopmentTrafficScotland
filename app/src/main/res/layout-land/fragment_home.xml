@@ -34,18 +34,15 @@
     <fragment
         android:id="@+id/map"
         android:name="com.google.android.gms.maps.SupportMapFragment"
-        android:layout_width="408dp"
-        android:layout_height="609dp"
-        android:layout_marginStart="32dp"
+        android:layout_width="723dp"
+        android:layout_height="313dp"
         android:layout_marginTop="16dp"
-        android:layout_marginEnd="32dp"
         app:cameraZoom="6"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.508"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/spinneroption"
-        app:layout_constraintVertical_bias="1.0" />
+        app:layout_constraintVertical_bias="0.216" />
 
     <TextView
         android:id="@+id/totalEvents"
